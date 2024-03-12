@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Intern C#\\CheckProcessDiskUsage\\CheckDiskProcessUsage\\",
+  "WorkspaceRootPath": "E:\\Intern C#\\CheckProcessDiskUsage\\CheckDiskUsageOfApp\\CheckDiskProcessUsage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1ABAC520-C4A0-430B-87CA-62E7952382E2}|CheckDiskProcessUsage.csproj|e:\\intern c#\\checkprocessdiskusage\\checkdiskprocessusage\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1ABAC520-C4A0-430B-87CA-62E7952382E2}|CheckDiskProcessUsage.csproj|e:\\intern c#\\checkprocessdiskusage\\checkdiskusageofapp\\checkdiskprocessusage\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1ABAC520-C4A0-430B-87CA-62E7952382E2}|CheckDiskProcessUsage.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1ABAC520-C4A0-430B-87CA-62E7952382E2}|CheckDiskProcessUsage.csproj|E:\\Intern C#\\CheckProcessDiskUsage\\CheckDiskProcessUsage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1ABAC520-C4A0-430B-87CA-62E7952382E2}|CheckDiskProcessUsage.csproj|E:\\Intern C#\\CheckProcessDiskUsage\\CheckDiskUsageOfApp\\CheckDiskProcessUsage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1ABAC520-C4A0-430B-87CA-62E7952382E2}|CheckDiskProcessUsage.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -24,22 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "E:\\Intern C#\\CheckProcessDiskUsage\\CheckDiskProcessUsage\\MainWindow.xaml",
+              "DocumentMoniker": "E:\\Intern C#\\CheckProcessDiskUsage\\CheckDiskUsageOfApp\\CheckDiskProcessUsage\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "E:\\Intern C#\\CheckProcessDiskUsage\\CheckDiskProcessUsage\\MainWindow.xaml",
+              "ToolTip": "E:\\Intern C#\\CheckProcessDiskUsage\\CheckDiskUsageOfApp\\CheckDiskProcessUsage\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-09T07:50:05.333Z"
+              "WhenOpened": "2024-03-09T07:50:05.333Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "E:\\Intern C#\\CheckProcessDiskUsage\\CheckDiskProcessUsage\\MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Intern C#\\CheckProcessDiskUsage\\CheckDiskUsageOfApp\\CheckDiskProcessUsage\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "E:\\Intern C#\\CheckProcessDiskUsage\\CheckDiskProcessUsage\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Intern C#\\CheckProcessDiskUsage\\CheckDiskUsageOfApp\\CheckDiskProcessUsage\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAMwDgAAABPAAAA",
+              "ViewState": "AQIAAKsAAAAAAAAAAADwv7AAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-09T07:49:53.688Z",
               "EditorCaption": ""

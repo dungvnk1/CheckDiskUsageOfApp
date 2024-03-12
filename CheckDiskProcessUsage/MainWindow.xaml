@@ -7,10 +7,15 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <StackPanel Margin="10">
+        <TextBox x:Name="AppPathTextBox" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="365"/>
+        <Button x:Name="StartButton" Content="Start Monitoring" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" Width="120" Click="StartButton_Click"/>
+        
+        
+        <!--First test-->
+        <!--<StackPanel Margin="10">
             <TextBlock Text="Enter the path to the application:"/>
             <TextBox x:Name="AppPathTextBox" Margin="0,0,0,10"/>
             <Button Content="Check Disk Usage" HorizontalAlignment="Center" Click="CheckDiskUsageButton_Click"/>
-        </StackPanel>
+        </StackPanel>-->
     </Grid>
 </Window>
