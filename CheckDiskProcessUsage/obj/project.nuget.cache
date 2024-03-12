@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "msaHBqRahgu4TySrzQfPkh41MIsqipKPRSysZ85Kt+y9zWs5zMsyJJtSYc4pAA2cH2LJxtT6MdQWIQANSC2W9Q==",
+  "dgSpecHash": "9CT22qAKfdRBkpWyrHvFioqjw4OW5aS+q8APQmRX9f78JwxbLSUydWY8Vu/mHcbKgaVxF1lfqGkSgV5qbSmqPQ==",
   "success": true,
-  "projectFilePath": "E:\\Intern C#\\CheckProcessDiskUsage\\CheckDiskProcessUsage\\CheckDiskProcessUsage.csproj",
+  "projectFilePath": "E:\\Intern C#\\CheckProcessDiskUsage\\CheckDiskUsageOfApp\\CheckDiskProcessUsage\\CheckDiskProcessUsage.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CheckDiskProcessUsage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+158928da1d1f1bfb6e52386b8992b40279b38e16")]
 [assembly: System.Reflection.AssemblyProductAttribute("CheckDiskProcessUsage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CheckDiskProcessUsage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

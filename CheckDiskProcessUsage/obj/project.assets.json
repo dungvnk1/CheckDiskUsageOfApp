@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Intern C#\\CheckProcessDiskUsage\\CheckDiskProcessUsage\\CheckDiskProcessUsage.csproj",
+      "projectUniqueName": "E:\\Intern C#\\CheckProcessDiskUsage\\CheckDiskUsageOfApp\\CheckDiskProcessUsage\\CheckDiskProcessUsage.csproj",
       "projectName": "CheckDiskProcessUsage",
-      "projectPath": "E:\\Intern C#\\CheckProcessDiskUsage\\CheckDiskProcessUsage\\CheckDiskProcessUsage.csproj",
+      "projectPath": "E:\\Intern C#\\CheckProcessDiskUsage\\CheckDiskUsageOfApp\\CheckDiskProcessUsage\\CheckDiskProcessUsage.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "E:\\Intern C#\\CheckProcessDiskUsage\\CheckDiskProcessUsage\\obj\\",
+      "outputPath": "E:\\Intern C#\\CheckProcessDiskUsage\\CheckDiskUsageOfApp\\CheckDiskProcessUsage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
