@@ -1,0 +1,16 @@
+﻿<Window x:Class="CheckDiskProcessUsage.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckDiskProcessUsage"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBlock Text="Enter the path to the application:"/>
+            <TextBox x:Name="AppPathTextBox" Margin="0,0,0,10"/>
+            <Button Content="Check Disk Usage" HorizontalAlignment="Center" Click="CheckDiskUsageButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
